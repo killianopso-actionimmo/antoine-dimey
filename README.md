@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Déploiement du site
 
 Ce dépôt contient un site statique (fichier `index.html`). Le workflow GitHub Actions `pages.yml` a été ajouté pour déployer automatiquement le contenu du dépôt sur GitHub Pages lorsque vous poussez sur la branche `main`.
@@ -23,3 +24,6 @@ Dans votre cas probable : `https://killianopso-actionimmo.github.io/antoine-dime
 3. Si vous souhaitez que je pousse et déclenche l'action depuis cet environnement, autorisez-moi à exécuter les commandes `git` et je procéderai au push.
 
 Si vous préférez une autre plateforme (Netlify, Vercel), dites-moi laquelle et je préparerai la configuration correspondante.
+=======
+
+>>>>>>> 998211e8492391f09b388fd1371212b0940379b7
